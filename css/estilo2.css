@@ -1,0 +1,335 @@
+*{margin: 0; padding: 0;box-sizing: border-box;}
+
+body{background-color: #1a0000;}
+
+main{
+	width: 90%;
+	height: 665px;	
+	margin-right: auto;
+	margin-left: auto;
+	background-color: black;
+}
+
+header{
+	width: 100%;
+	height: 50px;
+	background-color: #512115;}
+
+nav{
+	width: 100%;
+	height: 100%;
+	background-color:  #512115;
+	display: inline;
+}
+
+
+#area1 {
+	width: 48%;
+	height: 50px;
+	float: left;				
+	background-color:  #512115;
+	}
+
+		.logo {
+			width: 100px;
+			height: 18px;
+			text-decoration: none;
+			margin-left: 40px;
+			margin-top: 15px;
+		}
+
+#area2{
+	width: 48%;
+	height: 50px;
+	float: right;
+	background-color: #512115;
+	}
+
+
+#menu{
+	padding:10px;
+	margin-right: 20px;										
+	}
+
+
+#menu li{
+	display:inline;			
+	}
+
+#menu li a{
+	width: 135px; 
+	height: 31px;							
+	background-color: #a2542f;
+	margin-right: 15px;
+	padding-top: 3px;
+	float: right;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-size: 16px;			
+	font-family: 'Poppins', sans-serif;
+}
+
+/*relevamiento*/
+
+#relevamiento{
+	width: 100%;
+	height: 565px;
+}
+
+#img{
+	width: 1360px;
+	height: 565px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-image: url(../img/sonja.jpg);
+}
+
+
+.relevamiento{
+	width: 50%;
+	height: 565px;
+	float: left;
+}
+
+.micro{
+	text-align: center;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 3%;
+	font-size: 23px;
+}
+
+.guiatp{
+	width: 310px;
+	height: 80px;
+	float: left;
+	margin: 40px;
+	margin-top: 6%;
+	margin-left:10%;
+}
+
+
+.tp1{
+	width: 310px;
+	height: 235px;
+	float: left;
+	margin: 26px;
+	margin-left:10%;
+	}
+
+
+/*wireframe*/
+
+#wireframe{
+	width: 100%;
+	height: 565px;
+	background-color: white;
+}
+#titulo2{
+	width: 100%;
+	height: 40px;
+	background-color:  #958161;
+	float: right;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	color:  #512115;
+	padding-left: 16%;
+	margin-top: 20px;
+}
+
+#maquetacion{
+	width: 25%;
+	height: 415px;
+	background-color: #958161;
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	color:  #512115;
+}
+
+#maquetacion1{
+	width: 25%;
+	height: 415px;
+	background-color: #958161;
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	color: #512115;
+}
+
+#maquetacion2{
+	width: 25%;
+	height: 415px;
+	background-color: #958161;
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	color: #512115;
+}
+
+#maquetacion3{
+	width: 25%;
+	height: 415px;
+	background-color: #958161;
+	float: right;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	color: #512115;
+}
+
+		.maquetas{
+			width: 250px;
+			height: 150px;
+			margin-left: 15%;
+			margin-right: 15%;
+			padding: 5px;
+		}
+
+/*descripcion*/
+
+#memoria{
+	width: 100%;
+	height: 565px;
+	background-color: white;
+}
+
+#titulo{
+	width: 100%;
+	height: 150px;
+	background-color: #958161;
+	float: right;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	color:  #512115;
+	padding-top: 40px;
+	font-size: 23px;
+}
+
+#paleta{
+	width: 38%;
+	height: 415px;
+	background-color: #958161;
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	color: #512115;
+	padding-left: 90px;
+}
+
+.color{
+	width: 200px;
+	height: 230px; 
+}
+
+
+.texto{
+	width: 300px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	font-size: 13px;
+	color: black;
+}
+
+.tipo{
+	width: 62%;
+	height: 60px;
+	background-color: #958161;
+	float: right;
+	font-family: 'Poppins', sans-serif;
+	color: #512115; 
+
+}
+
+
+#tipo{
+	width: 28%;
+	height: 355px;
+	background-color: #958161;
+	float: left;
+	font-family: 'Poppins', sans-serif;
+	color: #512115;
+}
+
+#tipo2{
+	width:34%;
+	height: 355px;
+	background-color: #958161;
+	float: right;
+	color:  #512115;
+	font-family: 'Poppins', sans-serif;
+}
+
+			.poppins{
+				text-align: left;
+				color:  #512115;
+				font-size: 20px;
+				font-family: 'Poppins', sans-serif;
+			}
+
+			.opens{
+				text-align:left;
+				color:  #512115;
+				font-size: 20px;
+				font-family: 'Open Sans', sans-serif;			
+			}
+
+/*video*/
+
+#video{
+	width: 100%;
+	height: 565px;
+	background-color: white;
+
+}
+
+
+#foto{
+	width: 1360px;
+	height: 565px;
+	overflow: hidden;
+	background-image: url(../img/video.png);
+}
+
+.youtube{
+	width: 300px;
+	height: 170px;
+	float: right;
+	margin-right: 30%;
+	margin-top: 12px;
+}
+
+
+footer{
+	width: 100%;
+	height: 50px;
+	background-color: #512115;
+	}
+
+		#footer1{
+			width: 50%;
+			height: 50%;
+			background-color: #512115;
+			float: left;
+		}
+
+
+		#footer2{
+			width: 50%;
+			height: 50%;
+			background-color: #512115;
+			float: right;
+			font-family: 'Poppins', sans-serif;
+			color: white;
+			font-size: 11px;
+			text-align: right;
+			padding-right: 40px;
+			margin-top: 17px;
+		}
+
+.logo2{
+	width: 75px;
+	height: 13px;
+	margin-top: 18px;
+	margin-left: 40px;
+}
